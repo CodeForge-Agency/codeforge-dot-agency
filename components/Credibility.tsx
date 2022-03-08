@@ -214,8 +214,8 @@ const Credibility = () => {
                       stroke="currentColor"
                     >
                       <path
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                         stroke-width="2"
                         d="M10 19l-7-7m0 0l7-7m-7 7h18"
                       ></path>
@@ -230,8 +230,8 @@ const Credibility = () => {
                       stroke="currentColor"
                     >
                       <path
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
                         stroke-width="2"
                         d="M14 5l7 7m0 0l-7 7m7-7H3"
                       ></path>
@@ -247,8 +247,8 @@ const Credibility = () => {
                     stroke="currentColor"
                   >
                     <path
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                       stroke-width="2"
                       d="M10 19l-7-7m0 0l7-7m-7 7h18"
                     ></path>
@@ -333,8 +333,8 @@ const Credibility = () => {
                     stroke="currentColor"
                   >
                     <path
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                       stroke-width="2"
                       d="M14 5l7 7m0 0l-7 7m7-7H3"
                     ></path>
